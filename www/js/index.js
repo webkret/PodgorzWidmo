@@ -18,9 +18,9 @@
  */
 var app = {
     // Application Constructor
-    initialize: function() {
-        this.bindEvents();
-    },
+    // initialize: function() {
+    //     this.bindEvents();
+    // },
     // Bind Event Listeners
     //
     // Bind any events that are required on startup. Common events are:
